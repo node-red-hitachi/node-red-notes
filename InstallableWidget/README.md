@@ -1,4 +1,4 @@
-# Make Node-RED Dashboard widgets installable
+# Make Node-RED Dashboard widgets installable (outdated)
 
 Currently, Node-RED Dashboard do not allow installing user created widget nodes.  Instead, it supports **TEMPLATE** node which allows embedding HTML code in its setting panel.   However, making new widget node installable is desirable because it enriches Node-RED Dashboard ecosystem as of current Node-RED nodes.
 

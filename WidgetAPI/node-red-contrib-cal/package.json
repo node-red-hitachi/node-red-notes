@@ -1,0 +1,14 @@
+{
+    "name": "node-red-contrib-cal",
+    "version": "0.0.1",
+    "description": "Node-RED widget node for calender",
+    "main": "node.js",
+    "node-red": {
+        "nodes": {
+            "cal": "node.js"
+        }
+    },
+    "keywords": [
+        "node-red-dashboard"
+    ]
+}

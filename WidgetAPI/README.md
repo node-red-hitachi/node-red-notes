@@ -26,7 +26,7 @@ To support new widget, following runtime API is exported from Dashboard module:
   | :--- | :------------------------- | :----------------------------------------------------------- |
   | 1    | node*                      | controlling node.<br/>optional if scope is "global".                                             |
   | 2    | format                     | HTML code of widget.<br />Accepts HTML same as one for Template Dashboard widget node. |
-  | 3    | group                      | group node object to which widget belongs                    |
+  | 3    | group*                     | group node object to which widget belongs                    |
   | 4    | width*                     | width of widget                                              |
   | 5    | height*                    | height of widget                                             |
   | 6    | templateScope              | scope of widget ("global" or "local")                        |

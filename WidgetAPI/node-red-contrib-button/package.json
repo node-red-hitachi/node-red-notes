@@ -1,0 +1,14 @@
+{
+    "name": "node-red-contrib-button",
+    "version": "0.0.1",
+    "description": "Node-RED widget node for hello",
+    "main": "node.js",
+    "node-red": {
+        "nodes": {
+            "xbutton": "node.js"
+        }
+    },
+    "keywords": [
+        "node-red-nodegen", "node-red-dashboard"
+    ]
+}
